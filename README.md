@@ -4,6 +4,8 @@ This project detects vehicles and extracts license plate numbers from video usin
 It identifies vehicles, detects license plates, and recognizes the text from the plate.
 
 ## Demo
+
+![Demo](demo.gif)
 https://drive.google.com/file/d/1hyNEF3CqWqLlbB5xK01TiGRQE8dAZw-P/view?usp=sharing
 
 ## Features
