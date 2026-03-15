@@ -37,8 +37,6 @@ python main.py
 
 ---
 
-## 6️⃣ Dataset
-```markdown
 ## Dataset
 License plate dataset from Roboflow.
 
