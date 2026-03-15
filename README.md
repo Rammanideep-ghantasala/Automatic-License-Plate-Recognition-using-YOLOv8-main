@@ -5,7 +5,6 @@ It identifies vehicles, detects license plates, and recognizes the text from the
 
 ## Demo
 
-![Demo](demo.gif)
 https://drive.google.com/file/d/1hyNEF3CqWqLlbB5xK01TiGRQE8dAZw-P/view?usp=sharing
 
 ## Features
